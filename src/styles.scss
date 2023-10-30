@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+
+:root{
+    --colour-first: #000035;
+    --colour-second: #062863;
+    --colour-third: #1c4c96;
+    --colour-fourth: #607ec9;
+    --colour-fifth: #9ab4ff;
+    --font-first: Roboto, "Helvetica Neue", sans-serif;
+    --font-second: 'Montserrat', sans-serif;
+    --font-third: 'Karla', sans-serif;
+    }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: 'Karla', sans-serif;}
